@@ -1,0 +1,6 @@
+{
+  "name": "BizLens AI — Voice-Powered Business Intelligence Assistant",
+  "description": "Voice-enabled natural language SQL analytics and interactive business intelligence dashboard powered by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
